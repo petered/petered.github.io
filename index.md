@@ -3,9 +3,30 @@ layout: default
 title: Peter O'Connor's Research Site
 ---
 
+It's crazy when you think about it.  
 
-I am a PhD Candidate at the University of Amsterdam and this is my research website.  Welcome.
+All our actions, our thoughts, our perceptions, they all seem to come from a bunch of little neurons that go "tick tick tick" to eachother all day and all night.
 
-## Project: Deep Spiking Neural Networks
+Nobody really knows how all their ticking gives rise to all that stuff.
 
-After decades of being not very cool, Deep Learning has now become very, very cool.  It's become so cool that people sometimes forget there's another type of neural network that's being around for a while - the spiking neural network.  Spiking neural nets, like their more popular cousins (until recently), have a long and troubled history of having a lot of promise but not really being good at anything.  I am working on uniting spiking networks and deep learning.
+But we do know a few things.
+
+We know that the neurons that are near the our eyes and ears tick in response to simple sensory stuff - like lines, and tones.
+
+And that higher-up cells respond to more abstract stuff, like hands, and Jennifer Aniston.
+
+And somehow all the sensory signals come together somehow into some kind of representation.
+
+And that other neurons can use this representation to act on the world by sending ticks to our muscles.
+
+And we can run networks of neurons on our computers.  
+
+And now we know how to train these neurons to respond to abstract things, like hands and Jennifer Aniston.
+
+But our computer-neurons don't tick like our brain neurons tick.  
+
+And we think that if we could make our computer-neurons communicate with ticks, then maybe some stuff that seemed hard before will start to seem easier.
+
+Because the one of the hard things might be to keep our abstract neurons up to date with the sensory neurons.
+
+And with ticks, we think that could be easier.
