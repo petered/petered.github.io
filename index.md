@@ -3,6 +3,9 @@ layout: default
 title: Peter O'Connor's Research Site
 ---
 
+<br><br><br>
+
+
 It's crazy when you think about it.  
 
 All our actions, our thoughts, our perceptions, they all seem to come from a bunch of little neurons that go "tick tick tick" to eachother all day and all night.
@@ -23,7 +26,7 @@ And we can run networks of neurons on our computers.
 
 And now we know how to train these neurons to respond to abstract things, like hands and Jennifer Aniston.
 
-But our computer-neurons don't tick like our brain neurons tick.  
+But our computer-neurons don't tick like our brain-neurons tick.  
 
 And we think that if we could make our computer-neurons communicate with ticks, then maybe some stuff that seemed hard before will start to seem easier.
 
