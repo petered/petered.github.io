@@ -16,7 +16,7 @@ https://github.com/petered/public-release
 
 # Spiking MLP
 If you want to replicate the experiments in our recent paper, [Deep Spiking Networks](http://arxiv.org/abs/1602.08323).
-https://github.com/petered/spiking-mlp.
+[https://github.com/petered/spiking-mlp].
 
 # DeepSpike
 The Spiking MLP code relies on our Java library for running spiking neural networks.  That's called DeepSpike, and you can get it at [https://github.com/petered/DeepSpike](https://github.com/petered/DeepSpike).  I wrote it in Java because it would run too slowly in Python, and our spiking networks can't just be vectorized into numpy expressions.
