@@ -13,7 +13,7 @@ I made a nice deep learning library called Plato.  It's built on top of Theano. 
 [https://github.com/petered/plato](https://github.com/petered/plato)
 
 # Public-Release
-A small utility for exporting a script, along with all its dependencies, into a new GitHub repository
+A small utility for exporting a script, along with all its dependencies, into a new GitHub repository.  
 [https://github.com/petered/public-release](https://github.com/petered/public-release)
 
 # Spiking MLP
