@@ -27,6 +27,8 @@ For example, lets take a robot.
 There are several sensors, running at different rates, which we presumably want to combine into a unified latent representation which we can act upon.  
 
 
+Page under construction... please come back later.
+![](https://www.dhxsoftware.com/wp-content/uploads/construction-laws.jpg)
 
 
 
