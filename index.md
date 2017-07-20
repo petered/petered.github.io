@@ -9,6 +9,7 @@ The goal of this is to make Deep Learning applicable in more real-world situatio
 
 
 ### What's is Deep Learning? 
+
 **(yes, I know, you know, but just for the sake of the narrative..)**
 
 Deep learning has proved useful in solving many problems that can be phrased as function approximation.  
